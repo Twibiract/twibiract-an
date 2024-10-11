@@ -15,7 +15,3 @@
   animation-duration: var(--tw-animation-durer);
   animation-fill-mode: both;
 }
-
-.animation.infinie {
-  animation-iteration-count: infinite;
-}
