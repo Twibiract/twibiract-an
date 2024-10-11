@@ -1,2 +1,6 @@
-// twibiract animation css
-// version 1.1
+@import "mixages/banniere";
+@include nsbanniere(twibiract, -an, 1.1.1, css);
+
+
+@import "variables.scss";
+@import "mixages.scss";
