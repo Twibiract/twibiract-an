@@ -5,3 +5,14 @@
   *Inspiré de: [
    getbootstrap, tailwindcss, scroll-driven, animate-css]
  */
+:root {
+  --tw-animation-durer: 1s;
+  --tw-animation-delai: 1s;
+  --tw-animation-repeter: 1;
+}
+
+:root {
+  --tw-animation-durer: 1s;
+  --tw-animation-delai: 1s;
+  --tw-animation-repeter: 1;
+}
