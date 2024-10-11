@@ -11,8 +11,14 @@
   --tw-animation-repeter: 1;
 }
 
-:root {
-  --tw-animation-durer: 1s;
-  --tw-animation-delai: 1s;
-  --tw-animation-repeter: 1;
+.animation {
+  -webkit-animation-duration: var(--tw-animation-durer);
+          animation-duration: var(--tw-animation-durer);
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+}
+
+.animation.infinie {
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
 }
