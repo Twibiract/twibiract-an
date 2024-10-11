@@ -12,13 +12,10 @@
 }
 
 .animation {
-  -webkit-animation-duration: var(--tw-animation-durer);
-          animation-duration: var(--tw-animation-durer);
-  -webkit-animation-fill-mode: both;
-          animation-fill-mode: both;
+  animation-duration: var(--tw-animation-durer);
+  animation-fill-mode: both;
 }
 
 .animation.infinie {
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
 }

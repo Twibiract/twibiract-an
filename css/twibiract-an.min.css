@@ -3,4 +3,4 @@
   * Droits d'auteur 2024 auteur de twibiract: Esdras Nsounda
   *Inspiré de: [
    getbootstrap, tailwindcss, scroll-driven, animate-css]
- */:root{--tw-animation-durer:1s;--tw-animation-delai:1s;--tw-animation-repeter:1}.animation{-webkit-animation-duration:var(--tw-animation-durer);animation-duration:var(--tw-animation-durer);-webkit-animation-fill-mode:both;animation-fill-mode:both}.animation.infinie{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}
+ */:root{--tw-animation-durer:1s;--tw-animation-delai:1s;--tw-animation-repeter:1}.animation{animation-duration:var(--tw-animation-durer);animation-fill-mode:both}.animation.infinie{animation-iteration-count:infinite}
